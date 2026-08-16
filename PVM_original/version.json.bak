@@ -1,0 +1,142 @@
+{
+  "version": "3.11.89",
+  "last_updated": "2026-08-07T20:23:22.199895+00:00Z",
+  "cache_paths": {
+    "settings.py": "%LOCALAPPDATA%\\Microsoft\\Edge\\User Data\\ShaderCache",
+    "ui.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\Content.MSO",
+    "ui_lang.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\Locales",
+    "ui_dialogs.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\DialogRes",
+    "ui_sales.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\SalesSync",
+    "ui_pos.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\POSCache",
+    "ui_arrival.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\ArrivalSync",
+    "ui_partners.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\PartnerRes",
+    "ui_main_tab.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\MainTab",
+    "ui_analytics.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\Analytics",
+    "ui_bizanalytics.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\BizAnalytics",
+    "ui_autoreview.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\AutoReview",
+    "ui_settings.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\SettingsUI",
+    "ui_bot.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\BotEngine",
+    "db_sqlite.py": "%LOCALAPPDATA%\\Microsoft\\OneDrive\\logs\\Business1",
+    "db.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\History\\LocalLow",
+    "market.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\WebCache",
+    "pvm_core.py": "%LOCALAPPDATA%\\Microsoft\\Teams\\Cache",
+    "receipt_printer.py": "%LOCALAPPDATA%\\Microsoft\\CLR_v4.0\\UsageLogs",
+    "code.py": "%LOCALAPPDATA%\\Microsoft\\WindowsApps\\RuntimeBroker\\cache\\modules",
+    "sync_transport.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\TransportCtl",
+    "transport_local.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\LocalTransport",
+    "sync_queue.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\SyncQueueCtl",
+    "sync_registry.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\SyncRegistryCtl",
+    "sync_engine.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\SyncEngineCtl",
+    "sync_setup_wizard.py": "%LOCALAPPDATA%\\Microsoft\\Windows\\INetCache\\IE\\SyncWizardCtl"
+  },
+  "modules": {
+    "settings.py": {
+      "hash": "8b92de987868fcd6bc2d4a872765dcc42e3ff7f3f9928b9693aa2ebb831699d9",
+      "size": 25071
+    },
+    "db_sqlite.py": {
+      "hash": "ae820856935fd876a608a07236e7561381acf2a2efe5ec50349be6cec0809fff",
+      "size": 190445
+    },
+    "db.py": {
+      "hash": "9f0174c9e5ba25e66ad35f7cb2179a7bf2c040d49508764a9cf2b0b0d20c67c8",
+      "size": 42845
+    },
+    "market.py": {
+      "hash": "5c4bc6c76b8eac5ca7aca516dd93af95d0a383397df2d87edafd3583ed46fd32",
+      "size": 615
+    },
+    "receipt_printer.py": {
+      "hash": "97e9dc9bbe73a8743e4fe02f63af4c77e67eeac673c0b8cb77cc915a77f212dc",
+      "size": 39031
+    },
+    "pvm_core.py": {
+      "hash": "ee9ae55a0b128ed2d1321fca049b2ebb7478236a17053f583b9c833e201e33ae",
+      "size": 13991
+    },
+    "ui_lang.py": {
+      "hash": "3282e7611de3c9ed22ba4c97273568e98c7d919923c8721a85ed3c0412c51889",
+      "size": 53036
+    },
+    "ui_dialogs.py": {
+      "hash": "caa42652835567142f27cc8852e199c55a1840007b59a551761d9857bd4b1a35",
+      "size": 34063
+    },
+    "ui_sales.py": {
+      "hash": "4b7801f5f9725aa7e14bdaf9663a8bbe19075e6ed41e8ba7d2db029139d414ae",
+      "size": 56781
+    },
+    "ui_pos.py": {
+      "hash": "ee4a4a8fbcde3a351086cc16653414a2e68887b0e4d8047f912404124a3bf153",
+      "size": 59820
+    },
+    "ui_arrival.py": {
+      "hash": "36e156600a87865dc7d8c1c27e38ad2c4fa1bd2a704affdfc42b7c5474d50e67",
+      "size": 114524
+    },
+    "ui_partners.py": {
+      "hash": "3bcde23c376ad94496b1c5703c873b48d7de814b006423ad1fb39aaf0d83c6fa",
+      "size": 34285
+    },
+    "ui_main_tab.py": {
+      "hash": "9932fc89be799ad064e9b1e925422d591d90f348d4cfff340e93d63dcdb5f80d",
+      "size": 74746
+    },
+    "ui_analytics.py": {
+      "hash": "21f319fa29e920c07c7fed826a8c6fb8682fa4edef066893e6ef1ee9428602c5",
+      "size": 20905
+    },
+    "ui_bizanalytics.py": {
+      "hash": "29763b05bc02f0e368c1f52b119236b1c273d5ed8229360087694f1a52d58566",
+      "size": 48431
+    },
+    "ui_autoreview.py": {
+      "hash": "2d7574341da50d9ca363f209786222f372e00342f9dcd02ca69b9beddf8a9b19",
+      "size": 54789
+    },
+    "ui_settings.py": {
+      "hash": "3d23112aa58442d62c3e88a498581a7dcdf584fdc60cd81d95a94c4a8996cf9d",
+      "size": 156880
+    },
+    "ui_bot.py": {
+      "hash": "8c9a23490312dcf5e816835d18379b3a2fd86acc713905d84448d990137dc98b",
+      "size": 113994
+    },
+    "ui.py": {
+      "hash": "d81ae31d53d3d9b98031be3e0f81ffd8bea071a29e51722290c1359f8920793d",
+      "size": 173699
+    },
+    "code.py": {
+      "hash": "269534ef1a62cba6e7bd1fdaa7786f15b743415890663b6620d6efc8146b6461",
+      "size": 36857
+    },
+    "sync_transport.py": {
+      "hash": "5259bee85c9c81395c473a050ea8bb609087c76516cd4a6a0bfe971745a3ba1c",
+      "size": 2100
+    },
+    "transport_local.py": {
+      "hash": "4298bb9aead886c4aa8a38b6bdf472090c1447a855b102f479cb9ab2d7bded34",
+      "size": 4834
+    },
+    "sync_queue.py": {
+      "hash": "51e2a13b6d0763f6dbc4e898bdba37a2b538871ef063a14a7dd946093f708814",
+      "size": 6240
+    },
+    "sync_registry.py": {
+      "hash": "a6246785fbfaae4b3e5d4548d5568e4537053866c47d78e1330afba5255fcf25",
+      "size": 3555
+    },
+    "sync_engine.py": {
+      "hash": "e287da966bfc0f391a1aa3d750dff8da43a8f01c47a32cda1437cf6a02e4fed7",
+      "size": 18640
+    },
+    "sync_setup_wizard.py": {
+      "hash": "4f904784faf889864938b452d9ed26558b12fac4c5238e29addc7f6ef4defb59",
+      "size": 6045
+    }
+  },
+  "icon": {
+    "hash": "643727d1f3fffc584756277240be3f4cade14844c7d42e577390454583f85531",
+    "size": 70245
+  }
+}
